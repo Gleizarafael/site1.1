@@ -1,0 +1,23 @@
+body{
+background-color: black;
+}
+h1{
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    color:bisque
+    
+} 
+h2.fonte-marrom {
+    text-align: center;
+    color: brown;
+}
+p{ font-size: 20px;
+    color:antiquewhite
+
+}
+
+ 
